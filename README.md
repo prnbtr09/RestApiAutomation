@@ -1,2 +1,2 @@
 # RestApiAutomation
-Practice prupose
+Practice purpose
